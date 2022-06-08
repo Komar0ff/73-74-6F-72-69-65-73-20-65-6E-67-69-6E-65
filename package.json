@@ -1,0 +1,22 @@
+{
+  "name": "storiesengine",
+  "version": "0.0.1",
+  "description": "Engine for creating stories of different kinds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Komar0ff/73-74-6F-72-69-65-73-20-65-6E-67-69-6E-65.git"
+  },
+  "keywords": [
+    "storiesEngine"
+  ],
+  "author": "Ilya Komar0ff",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/Komar0ff/73-74-6F-72-69-65-73-20-65-6E-67-69-6E-65/issues"
+  },
+  "homepage": "https://github.com/Komar0ff/73-74-6F-72-69-65-73-20-65-6E-67-69-6E-65#readme"
+}
